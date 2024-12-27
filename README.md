@@ -1,5 +1,4 @@
 # Software-Developer-Project
-# Software-Developer-Project
 Budget Tracker
 ==============
 
@@ -80,6 +79,19 @@ Usage
   Enter the year (format: YYYY) in the Yearly Dashboard page.
   View total yearly income, expenses, and savings.
   See monthly breakdowns and a bar chart of income vs. expenses.
+
+
+Screenshorts:
+Add Income
+![image](https://github.com/user-attachments/assets/c31fa265-0495-4b9b-acec-edd9f7f80940)
+Add Expenses
+![image](https://github.com/user-attachments/assets/0ba6e8b8-794e-4365-b7fa-2b6866279384)
+Monthly Tracking Dashboard :
+![image](https://github.com/user-attachments/assets/e9ff9ba0-bb46-4ce3-8638-c97c104ff6a4)
+Yearly  tracking Dashboard :
+![image](https://github.com/user-attachments/assets/ab3073bb-27d2-4bbc-940c-7a56b87b91c5)
+
+
 
 
 
